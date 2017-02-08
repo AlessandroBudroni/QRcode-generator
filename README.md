@@ -1,6 +1,6 @@
 # QRcode-generator
-Written in MATLAB with G. G. and E. F. 
+Written in MATLAB with Giuseppe Giffone and Ermes Franch 
 
-usage: QRcode('TEST_PROVA')
+usage: ```QRcode('TEST_PROVA')```
 
-It saves the qrcode.png on the directory
+It saves the qrcode.png on the current directory.
