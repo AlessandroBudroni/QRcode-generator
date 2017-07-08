@@ -1,6 +1,11 @@
 # QRcode-generator
-Written in MATLAB with Giuseppe Giffone and Ermes Franch 
 
-usage: ```QRcode('TEST_PROVA')```
+This is the code of an achademic project consisting in writing in MATLAB  a QR code generator.
 
-It saves the qrcode.png on the current directory.
+* Authors: Alessandro Budroni, Giuseppe Giffone and Ermes Franch 
+
+usage: 
+
+```QRcode('encode_this_string')```
+
+It saves the `qrcode.png` in the current directory.
